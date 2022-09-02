@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+}
+.avatar {
+    width: 150px;
+    box-shadow: 5px 5px;  
+    border-radius: 10px; 
+}
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 5px solid green;
+    background-image: radial-gradient(rgb(0, 255, 76), rgb(0, 150, 20));
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 5px rgb(1, 27, 0);
+    border-radius: 15px;
+}
